@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Image4" size="1.000000 1.000000" />
+    <ImageTarget name="Image3" size="1.000000 1.016342" />
+    <ImageTarget name="Image2" size="1.000000 1.000000" />
+    <ImageTarget name="Image1" size="1.000000 1.000000" />
+    <ImageTarget name="o-BEST-BEEF-BURGERS-facebook" size="0.250000 0.125000" />
+    <ImageTarget name="Tomaten-eerste-oogst-2015" size="0.250000 0.140713" />
+    <ImageTarget name="TMarker" size="1.000000 1.000000" />
+    <ImageTarget name="test" size="0.250000 0.188235" />
+  </Tracking>
+</QCARConfig>
